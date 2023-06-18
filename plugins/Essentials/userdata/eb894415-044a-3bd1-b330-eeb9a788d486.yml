@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.102.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685217315306
+  login: 1685217293294
+money: '0'
+last-account-name: zfedq
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -139.5
+  y: 66.0
+  z: 260.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 358.5237183758518
+  y: 113.24918707874468
+  z: 384.1561613995158
+  yaw: 77.48624420166016
+  pitch: 48.53317642211914

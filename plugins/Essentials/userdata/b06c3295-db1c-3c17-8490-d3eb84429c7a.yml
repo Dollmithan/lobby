@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1685377644714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686772281107
+  login: 1686772289645
+  kits:
+    color: 1684593223757
+money: '0'
+last-account-name: dito
+lastlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 371.21124333925746
+  y: 111.88001995437179
+  z: 385.50202418745135
+  yaw: 90.34014892578125
+  pitch: 18.93644905090332
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 371.26096578080455
+  y: 110.0
+  z: 384.70621833697584
+  yaw: 91.54503631591797
+  pitch: 21.60474967956543

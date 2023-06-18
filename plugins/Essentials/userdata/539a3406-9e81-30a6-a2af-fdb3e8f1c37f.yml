@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685275134288
+  login: 1685275114376
+money: '0'
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -139.5
+  y: 66.0
+  z: 260.5
+  yaw: 0.7957051992416382
+  pitch: 0.0
+last-account-name: Griffin
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 357.40434492666304
+  y: 111.76636799395752
+  z: 385.39306224142587
+  yaw: 211.5323028564453
+  pitch: 7.316460609436035

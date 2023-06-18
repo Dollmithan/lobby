@@ -1,0 +1,783 @@
+[05-20 10:29:01]: [INFO] Created column 'regdate' and set the current timestamp, 1684578541345, to all 0 rows
+[05-20 10:29:01]: [INFO] SQLite Setup finished
+[05-20 10:29:01]: [INFO] Hooked into Vault!
+[05-20 10:29:01]: [INFO] Hooked successfully into Essentials
+[05-20 10:29:01]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 10:29:01]: [INFO] Essentials spawn file not found: '/home/gcloud/lobby/plugins/Essentials/spawn.yml'
+[05-20 10:29:02]: [WARN] Note: Hooks.bungeecord is set to false but your server appears to be running in bungeecord mode (see your spigot.yml). In order to allow the datasource caching and the AuthMeBungee add-on to work properly you have to enable this option!
+[05-20 10:29:02]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 10:29:02]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 10:29:02]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 10:29:02]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 10:29:02]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 10:29:02]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 10:36:46]: [INFO] LuckPerms plugin enabled, dynamically updating permissions hooks!
+[05-20 10:36:46]: [INFO] Hooked into LuckPerms!
+[05-20 10:46:08]: [INFO] LuckPerms plugin disabled, updating hooks!
+[05-20 10:46:08]: [INFO] Hooked into LuckPerms!
+[05-20 10:46:08]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-20 10:46:36]: [INFO] SQLite Setup finished
+[05-20 10:46:36]: [INFO] Hooked into LuckPerms!
+[05-20 10:46:36]: [INFO] Hooked successfully into Essentials
+[05-20 10:46:36]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 10:46:36]: [INFO] Essentials spawn file not found: '/home/gcloud/lobby/plugins/Essentials/spawn.yml'
+[05-20 10:46:36]: [WARN] Note: Hooks.bungeecord is set to false but your server appears to be running in bungeecord mode (see your spigot.yml). In order to allow the datasource caching and the AuthMeBungee add-on to work properly you have to enable this option!
+[05-20 10:46:36]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 10:46:36]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 10:46:36]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 10:46:36]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 10:46:36]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 10:46:36]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 10:48:01]: [FINE] dito registered 94.43.190.178
+[05-20 10:48:01]: [FINE] dito logged in 94.43.190.178
+[05-20 10:48:35]: [FINE] dito logged in 94.43.190.178
+[05-20 10:50:51]: [INFO] Unhooked from Permissions!
+[05-20 10:50:51]: [INFO] Hooked into LuckPerms!
+[05-20 10:50:51]: [INFO] SQLite Setup finished
+[05-20 10:50:51]: [INFO] Essentials spawn file not found: '/home/gcloud/lobby/plugins/Essentials/spawn.yml'
+[05-20 10:51:06]: [FINE] dito logged in 94.43.190.178
+[05-20 11:01:23]: [FINE] dito logged in 94.43.190.178
+[05-20 11:05:03]: [FINE] dito logged in 94.43.190.178
+[05-20 11:07:05]: [FINE] dito logged in 94.43.190.178
+[05-20 11:07:42]: [FINE] dito logged in 94.43.190.178
+[05-20 11:10:40]: [FINE] dito logged in 94.43.190.178
+[05-20 11:12:44]: [FINE] dito logged in 94.43.190.178
+[05-20 11:17:09]: [INFO] Unhooked from Permissions!
+[05-20 11:17:09]: [INFO] Hooked into LuckPerms!
+[05-20 11:17:09]: [INFO] SQLite Setup finished
+[05-20 11:17:21]: [INFO] Unhooked from Permissions!
+[05-20 11:17:21]: [INFO] Hooked into LuckPerms!
+[05-20 11:17:21]: [INFO] SQLite Setup finished
+[05-20 11:23:28]: [INFO] Unhooked from Permissions!
+[05-20 11:23:28]: [INFO] Hooked into LuckPerms!
+[05-20 11:23:28]: [INFO] SQLite Setup finished
+[05-20 11:23:33]: [INFO] Unhooked from Permissions!
+[05-20 11:23:33]: [INFO] Hooked into LuckPerms!
+[05-20 11:23:33]: [INFO] SQLite Setup finished
+[05-20 11:23:38]: [INFO] Unhooked from Permissions!
+[05-20 11:23:38]: [INFO] Hooked into LuckPerms!
+[05-20 11:23:38]: [INFO] SQLite Setup finished
+[05-20 11:29:58]: [INFO] Unhooked from Permissions!
+[05-20 11:29:58]: [INFO] Hooked into LuckPerms!
+[05-20 11:29:58]: [INFO] SQLite Setup finished
+[05-20 11:30:07]: [INFO] Unhooked from Permissions!
+[05-20 11:30:07]: [INFO] Hooked into LuckPerms!
+[05-20 11:30:07]: [INFO] SQLite Setup finished
+[05-20 11:30:51]: [INFO] Unhooked from Permissions!
+[05-20 11:30:51]: [INFO] Hooked into LuckPerms!
+[05-20 11:30:51]: [INFO] SQLite Setup finished
+[05-20 11:32:20]: [INFO] Unhooked from Permissions!
+[05-20 11:32:20]: [INFO] Hooked into LuckPerms!
+[05-20 11:32:20]: [INFO] SQLite Setup finished
+[05-20 11:32:29]: [FINE] C0ldBlooded registered 94.43.190.178
+[05-20 11:32:29]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-20 12:05:56]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-20 12:14:46]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-20 12:14:58]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-20 12:19:17]: [FINE] dito logged in 94.43.190.178
+[05-20 12:25:38]: [FINE] dito logged in 94.43.190.178
+[05-20 12:56:19]: [FINE] dito logged in 94.43.190.178
+[05-20 13:11:59]: [FINE] dito logged in 94.43.190.178
+[05-20 13:13:48]: [FINE] dito logged in 94.43.190.178
+[05-20 13:24:00]: [FINE] dito logged in 94.43.190.178
+[05-20 13:27:36]: [FINE] dito logged in 94.43.190.178
+[05-20 13:41:33]: [FINE] dito logged in 94.43.190.178
+[05-20 13:41:36]: [FINE] _Denire_ registered 188.169.124.83
+[05-20 13:41:36]: [FINE] _Denire_ logged in 188.169.124.83
+[05-20 13:47:06]: [INFO] Unhooked from Permissions!
+[05-20 13:47:06]: [INFO] Hooked into LuckPerms!
+[05-20 13:47:06]: [INFO] SQLite Setup finished
+[05-20 13:50:30]: [FINE] _Denire_ logged in 188.169.124.83
+[05-20 14:28:44]: [FINE] dito logged in 94.43.190.178
+[05-20 14:44:09]: [FINE] dito logged in 94.43.190.178
+[05-20 14:44:37]: [FINE] dito logged in 94.43.190.178
+[05-20 15:27:09]: [INFO] SQLite Setup finished
+[05-20 15:27:09]: [INFO] Hooked into LuckPerms!
+[05-20 15:27:09]: [INFO] Hooked successfully into Essentials
+[05-20 15:27:09]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 15:27:09]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 15:27:10]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 15:27:10]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 15:27:10]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 15:27:10]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 15:27:10]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 15:29:07]: [FINE] dito logged in 94.43.190.178
+[05-20 15:31:44]: [FINE] Grumm registered 94.43.190.178
+[05-20 15:31:44]: [FINE] Grumm logged in 94.43.190.178
+[05-20 15:34:57]: [INFO] Unhooked from Permissions!
+[05-20 15:34:57]: [INFO] Hooked into LuckPerms!
+[05-20 15:34:57]: [INFO] SQLite Setup finished
+[05-20 15:35:04]: [FINE] Grumm logged in 94.43.190.178
+[05-20 15:36:19]: [INFO] c0ldblooded was unregistered by CONSOLE
+[05-20 15:36:26]: [FINE] ColdBl0oded registered 94.43.190.178
+[05-20 15:36:26]: [FINE] ColdBl0oded logged in 94.43.190.178
+[05-20 15:36:44]: [INFO] Unhooked from Permissions!
+[05-20 15:36:44]: [INFO] Hooked into LuckPerms!
+[05-20 15:36:44]: [INFO] SQLite Setup finished
+[05-20 15:36:49]: [INFO] coldbl0oded was unregistered by CONSOLE
+[05-20 15:37:12]: [FINE] ColdBl0oded registered 94.43.190.178
+[05-20 15:37:12]: [FINE] ColdBl0oded logged in 94.43.190.178
+[05-20 15:37:15]: [FINE] ColdBl0oded logged in 94.43.190.178
+[05-20 15:39:48]: [FINE] dito logged in 94.43.190.178
+[05-20 15:40:34]: [FINE] dito logged in 94.43.190.178
+[05-20 16:22:52]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-20 16:23:19]: [INFO] SQLite Setup finished
+[05-20 16:23:19]: [INFO] Hooked into LuckPerms!
+[05-20 16:23:19]: [INFO] Hooked successfully into Essentials
+[05-20 16:23:19]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 16:23:19]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 16:23:19]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 16:23:19]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 16:23:19]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 16:23:19]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 16:23:19]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 16:23:40]: [FINE] dito logged in 94.43.190.178
+[05-20 16:29:25]: [INFO] coldbl0oded was unregistered by dito
+[05-20 16:33:44]: [FINE] dito logged in 94.43.190.178
+[05-20 16:34:50]: [FINE] dito logged in 94.43.190.178
+[05-20 16:35:18]: [FINE] dito logged in 94.43.190.178
+[05-20 16:45:29]: [WARN] Player 'dito' wasn't online during login process, aborted...
+[05-20 16:50:49]: [FINE] dito logged in 94.43.190.178
+[05-20 16:51:47]: [INFO] SQLite Setup finished
+[05-20 16:51:47]: [INFO] Unhooked from Permissions!
+[05-20 16:51:47]: [INFO] Hooked into LuckPerms!
+[05-20 16:53:19]: [FINE] dito logged in 94.43.190.178
+[05-20 16:58:08]: [FINE] dito logged in 94.43.190.178
+[05-20 17:01:23]: [FINE] dito logged in 94.43.190.178
+[05-20 17:02:12]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-20 17:02:32]: [INFO] SQLite Setup finished
+[05-20 17:02:32]: [INFO] Hooked into LuckPerms!
+[05-20 17:02:32]: [INFO] Hooked successfully into Essentials
+[05-20 17:02:32]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 17:02:32]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 17:02:32]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 17:02:32]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 17:02:32]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 17:02:32]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 17:02:32]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 17:03:06]: [FINE] dito logged in 94.43.190.178
+[05-20 17:03:33]: [FINE] dito logged in 94.43.190.178
+[05-20 17:10:22]: [FINE] dito logged in 94.43.190.178
+[05-20 17:11:19]: [FINE] dito logged in 94.43.190.178
+[05-20 17:13:02]: [FINE] dito logged in 94.43.190.178
+[05-20 17:14:17]: [FINE] dito logged in 94.43.190.178
+[05-20 17:42:06]: [FINE] Elion registered 95.104.29.101
+[05-20 17:42:06]: [FINE] Elion logged in 95.104.29.101
+[05-20 17:42:12]: [FINE] Elion logged in 95.104.29.101
+[05-20 17:56:33]: [FINE] Brazer_ registered 95.104.13.246
+[05-20 17:56:33]: [FINE] Brazer_ logged in 95.104.13.246
+[05-20 18:25:40]: [FINE] dito logged in 94.43.190.178
+[05-20 18:27:59]: [FINE] dito logged in 94.43.190.178
+[05-20 18:35:46]: [FINE] dito logged in 94.43.190.178
+[05-20 19:17:45]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-20 19:27:28]: [INFO] SQLite Setup finished
+[05-20 19:27:29]: [INFO] Hooked into LuckPerms!
+[05-20 19:27:29]: [INFO] Hooked successfully into Essentials
+[05-20 19:27:29]: [INFO] Hooked successfully into Multiverse-Core
+[05-20 19:27:29]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-20 19:27:29]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-20 19:27:29]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-20 19:27:29]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-20 19:27:29]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-20 19:27:29]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-20 21:39:24]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[05-21 08:21:30]: [INFO] SQLite Setup finished
+[05-21 08:21:30]: [INFO] Hooked into LuckPerms!
+[05-21 08:21:30]: [INFO] Hooked successfully into Essentials
+[05-21 08:21:30]: [INFO] Hooked successfully into Multiverse-Core
+[05-21 08:21:30]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-21 08:21:30]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-21 08:21:30]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-21 08:21:30]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-21 08:21:30]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-21 08:21:30]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-21 08:22:07]: [FINE] dito logged in 94.43.190.178
+[05-21 08:38:54]: [FINE] dito logged in 94.43.190.178
+[05-21 08:41:15]: [FINE] dito logged in 94.43.190.178
+[05-21 08:41:25]: [FINE] dito logged in 94.43.190.178
+[05-21 08:42:01]: [FINE] dito logged in 94.43.190.178
+[05-21 09:08:35]: [FINE] dito logged in 94.43.190.178
+[05-21 09:47:52]: [FINE] dito logged in 94.43.190.178
+[05-21 10:04:00]: [FINE] dito logged in 94.43.190.178
+[05-21 10:05:26]: [FINE] dito logged in 94.43.190.178
+[05-21 10:08:30]: [FINE] dito logged in 94.43.190.178
+[05-21 10:09:09]: [FINE] dito logged in 94.43.190.178
+[05-21 11:25:05]: [FINE] dito logged in 94.43.190.178
+[05-21 11:37:36]: [FINE] dito logged in 94.43.190.178
+[05-21 11:46:32]: [FINE] dito logged in 94.43.190.178
+[05-21 11:47:33]: [FINE] dito logged in 94.43.190.178
+[05-21 11:52:16]: [FINE] dito logged in 94.43.190.178
+[05-21 12:02:27]: [FINE] dito logged in 94.43.190.178
+[05-21 12:10:19]: [FINE] dito logged in 94.43.190.178
+[05-21 12:20:42]: [FINE] dito logged in 94.43.190.178
+[05-21 12:51:16]: [FINE] dito logged in 94.43.190.178
+[05-21 13:03:01]: [FINE] dito logged in 94.43.190.178
+[05-21 13:26:56]: [FINE] dito logged in 94.43.190.178
+[05-21 13:31:25]: [FINE] dito logged in 94.43.190.178
+[05-21 14:01:34]: [FINE] dito logged in 94.43.190.178
+[05-21 14:17:12]: [FINE] dito logged in 94.43.190.178
+[05-21 14:23:25]: [FINE] dito logged in 94.43.190.178
+[05-21 14:29:15]: [FINE] dito logged in 94.43.190.178
+[05-21 14:35:12]: [FINE] dito logged in 94.43.190.178
+[05-21 14:39:21]: [FINE] dito logged in 94.43.190.178
+[05-21 16:02:51]: [FINE] dito logged in 94.43.190.178
+[05-21 16:03:32]: [FINE] dito logged in 94.43.190.178
+[05-21 16:06:09]: [FINE] dito logged in 94.43.190.178
+[05-21 16:09:26]: [FINE] dito logged in 94.43.190.178
+[05-21 16:34:40]: [FINE] dito logged in 94.43.190.178
+[05-21 16:41:12]: [FINE] dito logged in 94.43.190.178
+[05-21 17:41:24]: [FINE] dito logged in 94.43.190.178
+[05-21 17:46:47]: [FINE] dito logged in 94.43.190.178
+[05-21 17:53:00]: [FINE] dito logged in 94.43.190.178
+[05-21 17:55:22]: [FINE] dito logged in 94.43.190.178
+[05-21 17:55:52]: [FINE] C0ldBlooded registered 94.43.190.178
+[05-21 17:55:52]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-21 17:55:55]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-21 17:57:40]: [WARN] Player 'dito' wasn't online during login process, aborted...
+[05-21 17:57:51]: [FINE] C0ldBlooded logged in 94.43.190.178
+[05-21 20:15:06]: [FINE] dito logged in 94.43.190.178
+[05-21 21:11:28]: [FINE] dito logged in 94.43.190.178
+[05-21 21:49:38]: [FINE] dito logged in 94.43.190.178
+[05-21 22:18:05]: [FINE] dito logged in 94.43.190.178
+[05-23 11:45:35]: [FINE] dito logged in 94.43.190.178
+[05-23 12:02:23]: [FINE] dito logged in 94.43.190.178
+[05-23 12:12:51]: [FINE] dito logged in 94.43.190.178
+[05-23 12:25:50]: [FINE] dito logged in 94.43.190.178
+[05-23 12:31:02]: [FINE] dito logged in 94.43.190.178
+[05-23 12:35:26]: [FINE] dito logged in 94.43.190.178
+[05-23 13:02:44]: [FINE] dito logged in 94.43.190.178
+[05-23 13:52:39]: [FINE] dito logged in 94.43.190.178
+[05-23 16:14:29]: [FINE] dito logged in 94.43.190.178
+[05-23 16:17:21]: [FINE] dito logged in 94.43.190.178
+[05-23 16:19:38]: [FINE] dito logged in 94.43.190.178
+[05-23 16:22:40]: [FINE] dito logged in 94.43.190.178
+[05-23 16:22:55]: [FINE] dito logged in 94.43.190.178
+[05-23 16:23:03]: [FINE] dito logged in 94.43.190.178
+[05-23 16:23:32]: [FINE] dito logged in 94.43.190.178
+[05-23 16:41:07]: [FINE] dito logged in 94.43.190.178
+[05-23 16:55:54]: [INFO] SQLite Setup finished
+[05-23 16:55:54]: [INFO] Hooked into LuckPerms!
+[05-23 16:55:55]: [INFO] Hooked successfully into Essentials
+[05-23 16:55:55]: [INFO] Hooked successfully into Multiverse-Core
+[05-23 16:55:55]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-23 16:55:55]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-23 16:55:55]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-23 16:55:55]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-23 16:55:55]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-23 16:55:55]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-23 16:56:49]: [FINE] dito logged in 94.43.190.178
+[05-23 16:58:48]: [FINE] dito logged in 94.43.190.178
+[05-23 17:48:50]: [INFO] SQLite Setup finished
+[05-23 17:48:50]: [INFO] Hooked into LuckPerms!
+[05-23 17:48:50]: [INFO] Hooked successfully into Essentials
+[05-23 17:48:50]: [INFO] Hooked successfully into Multiverse-Core
+[05-23 17:48:50]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[05-23 17:48:51]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[05-23 17:48:51]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[05-23 17:48:51]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[05-23 17:48:51]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[05-23 17:48:51]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64)
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[05-23 17:52:19]: [FINE] dito logged in 94.43.190.178
+[05-23 17:52:42]: [FINE] dito logged in 94.43.190.178
+[05-23 18:17:21]: [FINE] dito logged in 94.43.190.178
+[05-23 18:17:34]: [FINE] dito logged in 94.43.190.178
+[05-24 10:53:40]: [FINE] dito logged in 94.43.190.178
+[05-24 14:22:31]: [FINE] dito logged in 94.43.190.178
+[05-24 14:37:59]: [FINE] dito logged in 94.43.190.178
+[05-24 14:40:10]: [FINE] dito logged in 94.43.190.178
+[05-24 19:45:56]: [FINE] dito logged in 94.43.190.178
+[05-25 11:59:12]: [FINE] dito logged in 94.43.190.178
+[05-25 12:46:02]: [FINE] dito logged in 94.43.190.178
+[05-25 12:51:31]: [FINE] dito logged in 94.43.190.178
+[05-25 12:52:01]: [FINE] dito logged in 94.43.190.178
+[05-25 13:05:24]: [FINE] dito logged in 94.43.190.178
+[05-25 13:40:50]: [FINE] dito logged in 94.43.190.178
+[05-25 13:51:20]: [FINE] dito logged in 94.43.190.178
+[05-25 14:06:09]: [FINE] dito logged in 94.43.190.178
+[05-25 15:03:05]: [FINE] dito logged in 94.43.190.178
+[05-25 15:09:03]: [FINE] dito logged in 94.43.190.178
+[05-26 05:52:02]: [FINE] dito logged in 94.43.190.178
+[05-26 06:00:20]: [FINE] dito logged in 94.43.190.178
+[05-26 07:17:14]: [FINE] dito logged in 94.43.190.178
+[05-26 07:29:30]: [FINE] dito logged in 94.43.190.178
+[05-26 07:29:51]: [FINE] dito logged in 94.43.190.178
+[05-26 07:30:15]: [FINE] dito logged in 94.43.190.178
+[05-26 07:30:23]: [FINE] dito logged in 94.43.190.178
+[05-26 07:31:00]: [FINE] Grumm used the wrong password
+[05-26 07:31:43]: [FINE] Grumm logged in 94.43.190.178
+[05-26 07:32:13]: [FINE] dito logged in 94.43.190.178
+[05-26 08:58:48]: [FINE] Grumm logged in 94.43.190.178
+[05-26 08:59:18]: [FINE] Lancelot registered 178.134.41.12
+[05-26 08:59:18]: [FINE] Lancelot logged in 178.134.41.12
+[05-26 08:59:21]: [FINE] Lancelot logged in 178.134.41.12
+[05-26 08:59:30]: [FINE] dito logged in 94.43.190.178
+[05-26 08:59:45]: [FINE] Lancelot logged in 178.134.41.12
+[05-26 09:41:16]: [FINE] Dramatic registered 178.134.156.100
+[05-26 09:41:16]: [FINE] Dramatic logged in 178.134.156.100
+[05-26 09:41:19]: [FINE] Dramatic logged in 178.134.156.100
+[05-26 09:42:29]: [FINE] Dramatic logged in 178.134.156.100
+[05-26 09:42:48]: [FINE] Dramatic logged in 178.134.156.100
+[05-26 09:47:06]: [FINE] Vague registered 212.58.102.118
+[05-26 09:47:06]: [FINE] Vague logged in 212.58.102.118
+[05-26 09:47:11]: [FINE] Vague logged in 212.58.102.118
+[05-26 16:11:15]: [FINE] dito logged in 94.43.190.178
+[05-26 16:44:52]: [FINE] dito logged in 94.43.190.178
+[05-26 17:01:53]: [FINE] dito logged in 94.43.190.178
+[05-26 17:02:21]: [FINE] dito logged in 94.43.190.178
+[05-26 17:06:44]: [FINE] dito logged in 94.43.190.178
+[05-26 17:16:02]: [FINE] dito logged in 94.43.190.178
+[05-26 17:20:02]: [FINE] dito logged in 94.43.190.178
+[05-26 17:30:10]: [FINE] Malekith registered 109.172.224.187
+[05-26 17:30:10]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:30:15]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:31:38]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:33:28]: [FINE] saba_killer_saba registered 92.54.209.50
+[05-26 17:33:28]: [FINE] saba_killer_saba logged in 92.54.209.50
+[05-26 17:33:32]: [FINE] saba_killer_saba logged in 92.54.209.50
+[05-26 17:37:39]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:54:07]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:54:19]: [FINE] Malekith logged in 109.172.224.187
+[05-26 17:57:37]: [FINE] saba_killer_saba logged in 92.54.209.50
+[05-26 17:58:23]: [FINE] saba_killer_saba logged in 92.54.209.50
+[05-26 18:07:52]: [FINE] saba_killer_saba logged in 92.54.209.50
+[05-26 18:10:26]: [FINE] dito logged in 94.43.190.178
+[05-26 18:12:39]: [FINE] dito logged in 94.43.190.178
+[05-26 18:12:57]: [FINE] dito logged in 94.43.190.178
+[05-26 18:13:30]: [FINE] dito logged in 94.43.190.178
+[05-26 18:19:50]: [FINE] dito logged in 94.43.190.178
+[05-27 11:22:14]: [FINE] dito logged in 94.43.190.178
+[05-27 11:48:05]: [FINE] dito logged in 94.43.190.178
+[05-27 13:05:27]: [WARN] Player 'dito' wasn't online during login process, aborted...
+[05-27 13:05:43]: [FINE] dito logged in 94.43.190.178
+[05-27 13:10:54]: [FINE] dito logged in 94.43.190.178
+[05-27 13:22:33]: [FINE] dito logged in 94.43.190.178
+[05-27 18:19:52]: [FINE] dito logged in 94.43.190.178
+[05-27 18:20:39]: [FINE] _Denire_ used the wrong password
+[05-27 18:20:45]: [FINE] _Denire_ used the wrong password
+[05-27 18:20:51]: [INFO] _Denire_ was unregistered by dito
+[05-27 18:21:12]: [FINE] _Denire_ registered 188.169.124.83
+[05-27 18:21:12]: [FINE] _Denire_ logged in 188.169.124.83
+[05-27 18:21:15]: [FINE] _Denire_ logged in 188.169.124.83
+[05-27 18:22:15]: [FINE] _Denire_ logged in 188.169.124.83
+[05-27 19:44:58]: [FINE] N1_Luka registered 78.40.106.15
+[05-27 19:44:58]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:45:01]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:45:41]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:46:53]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:47:57]: [FINE] zfedq registered 212.58.102.104
+[05-27 19:47:57]: [FINE] zfedq logged in 212.58.102.104
+[05-27 19:48:00]: [FINE] zfedq logged in 212.58.102.104
+[05-27 19:48:51]: [FINE] 4ezi registered 188.169.175.135
+[05-27 19:48:51]: [FINE] 4ezi logged in 188.169.175.135
+[05-27 19:48:55]: [FINE] 4ezi logged in 188.169.175.135
+[05-27 19:49:59]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:50:43]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 19:52:58]: [FINE] xAkira registered 212.58.103.163
+[05-27 19:52:58]: [FINE] xAkira logged in 212.58.103.163
+[05-27 19:53:11]: [FINE] xAkira logged in 212.58.103.163
+[05-27 19:54:31]: [FINE] Inpusible registered 31.146.189.164
+[05-27 19:54:31]: [FINE] Inpusible logged in 31.146.189.164
+[05-27 19:54:34]: [FINE] Inpusible logged in 31.146.189.164
+[05-27 19:54:53]: [FINE] zfedq logged in 212.58.102.104
+[05-27 19:57:00]: [FINE] Inpusible logged in 31.146.189.164
+[05-27 20:44:30]: [FINE] dito logged in 94.43.190.178
+[05-27 20:46:36]: [FINE] dito logged in 94.43.190.178
+[05-27 20:46:45]: [FINE] N1_Luka logged in 78.40.106.15
+[05-27 22:43:34]: [FINE] dito logged in 94.43.190.178
+[05-27 22:44:41]: [FINE] dito logged in 94.43.190.178
+[05-27 22:45:12]: [FINE] dito logged in 94.43.190.178
+[05-27 22:47:45]: [FINE] dito logged in 94.43.190.178
+[05-27 22:53:09]: [FINE] dito logged in 94.43.190.178
+[05-27 23:11:26]: [FINE] dito logged in 94.43.190.178
+[05-27 23:13:54]: [FINE] dito logged in 94.43.190.178
+[05-27 23:19:01]: [FINE] dito logged in 94.43.190.178
+[05-27 23:26:24]: [FINE] dito logged in 94.43.190.178
+[05-28 11:16:29]: [FINE] dito logged in 94.43.190.178
+[05-28 11:53:25]: [FINE] dito logged in 94.43.190.178
+[05-28 11:56:11]: [FINE] dito logged in 94.43.190.178
+[05-28 11:56:26]: [INFO] C0ldblooded was unregistered by dito
+[05-28 11:56:53]: [FINE] Griffin registered 94.43.190.178
+[05-28 11:56:53]: [FINE] Griffin logged in 94.43.190.178
+[05-28 11:56:55]: [FINE] Griffin logged in 94.43.190.178
+[05-28 11:58:34]: [FINE] Griffin logged in 94.43.190.178
+[05-28 12:00:39]: [FINE] dito logged in 94.43.190.178
+[05-28 12:00:47]: [INFO] griffin was unregistered by dito
+[05-28 12:01:52]: [FINE] blabla registered 94.43.190.178
+[05-28 12:01:52]: [FINE] blabla logged in 94.43.190.178
+[05-28 12:01:56]: [FINE] blabla logged in 94.43.190.178
+[05-28 12:25:07]: [FINE] blabla logged in 94.43.190.178
+[05-28 14:12:34]: [FINE] dito logged in 94.43.190.178
+[05-28 15:56:59]: [FINE] dito logged in 94.43.190.178
+[05-29 15:05:19]: [FINE] dito logged in 94.43.190.178
+[05-29 15:10:19]: [FINE] dito logged in 94.43.190.178
+[05-29 15:13:02]: [FINE] dito logged in 94.43.190.178
+[05-29 15:17:47]: [FINE] dito logged in 94.43.190.178
+[05-29 15:21:10]: [FINE] dito logged in 94.43.190.178
+[05-29 15:26:26]: [FINE] dito logged in 94.43.190.178
+[05-29 15:29:54]: [FINE] dito logged in 94.43.190.178
+[05-29 15:30:13]: [FINE] N1_Luka logged in 78.40.106.15
+[05-29 15:39:44]: [FINE] dito logged in 94.43.190.178
+[05-29 15:40:19]: [FINE] N1_Luka logged in 78.40.106.15
+[05-29 15:40:28]: [FINE] dito logged in 94.43.190.178
+[05-29 15:40:59]: [FINE] N1_Luka logged in 78.40.106.15
+[05-29 15:41:09]: [FINE] N1_Luka logged in 78.40.106.15
+[05-29 16:12:23]: [FINE] N1_Luka logged in 78.40.106.15
+[05-29 16:26:24]: [FINE] dito logged in 94.43.190.178
+[05-29 16:27:22]: [FINE] Brazer_ logged in 95.104.13.246
+[05-29 16:29:26]: [FINE] dito logged in 94.43.190.178
+[05-29 16:37:51]: [FINE] dito logged in 94.43.190.178
+[05-29 16:38:23]: [FINE] dito logged in 94.43.190.178
+[05-29 16:38:43]: [FINE] Brazer_ logged in 95.104.13.246
+[05-29 16:56:25]: [FINE] dito logged in 94.43.190.178
+[05-29 16:57:58]: [FINE] dito logged in 94.43.190.178
+[05-29 16:59:08]: [INFO] CONSOLE registered dollmithan
+[05-29 17:00:34]: [FINE] dito logged in 94.43.190.178
+[05-29 17:01:30]: [FINE] dito logged in 94.43.190.178
+[05-29 17:03:14]: [FINE] dollmithan logged in 94.43.190.178
+[05-29 17:03:19]: [INFO] dollmithan changed his password
+[05-29 17:04:23]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 13:37:08]: [FINE] dito logged in 94.43.190.178
+[05-30 14:31:09]: [FINE] dito logged in 94.43.190.178
+[05-30 14:39:51]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 14:52:30]: [FINE] dito logged in 94.43.190.178
+[05-30 14:53:01]: [FINE] dito logged in 94.43.190.178
+[05-30 14:58:57]: [FINE] dito logged in 94.43.190.178
+[05-30 15:46:09]: [FINE] dito logged in 94.43.190.178
+[05-30 16:10:23]: [FINE] dito logged in 94.43.190.178
+[05-30 16:15:45]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 16:15:54]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 16:20:29]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 16:22:36]: [FINE] dito logged in 94.43.190.178
+[05-30 16:24:50]: [FINE] dollmithan logged in 94.43.190.178
+[05-30 16:26:55]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:24:16]: [FINE] dito logged in 94.43.190.178
+[05-31 12:26:12]: [FINE] dito logged in 94.43.190.178
+[05-31 12:27:25]: [INFO] CONSOLE changed password of dollmithan
+[05-31 12:30:50]: [FINE] dito logged in 94.43.190.178
+[05-31 12:31:24]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:34:33]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:36:27]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:38:57]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:39:14]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 12:39:23]: [FINE] dito logged in 94.43.190.178
+[05-31 12:57:22]: [FINE] dollmithan logged in 94.43.190.178
+[05-31 13:03:01]: [FINE] dollmithan logged in 94.43.190.178
+[06-01 10:08:18]: [FINE] dito logged in 94.43.190.178
+[06-01 10:17:33]: [FINE] dito logged in 94.43.190.178
+[06-01 10:25:11]: [FINE] dito logged in 94.43.190.178
+[06-01 10:27:36]: [FINE] dito logged in 94.43.190.178
+[06-01 14:06:49]: [FINE] dito logged in 94.43.190.178
+[06-01 15:27:16]: [FINE] dito logged in 94.43.190.178
+[06-01 15:34:57]: [FINE] dito logged in 94.43.190.178
+[06-01 17:11:04]: [FINE] dito logged in 94.43.190.178
+[06-01 17:25:36]: [FINE] dito logged in 94.43.190.178
+[06-02 16:47:13]: [FINE] dito logged in 94.43.190.178
+[06-03 19:49:40]: [FINE] dito logged in 94.43.190.178
+[06-03 19:50:09]: [FINE] Hatharal registered 109.172.224.187
+[06-03 19:50:09]: [FINE] Hatharal logged in 109.172.224.187
+[06-03 19:50:14]: [FINE] Hatharal logged in 109.172.224.187
+[06-03 19:51:05]: [FINE] Hatharal logged in 109.172.224.187
+[06-03 20:08:39]: [FINE] dito logged in 94.43.190.178
+[06-03 20:51:26]: [FINE] dito logged in 94.43.190.178
+[06-04 11:59:20]: [FINE] dito logged in 94.43.190.178
+[06-04 12:00:23]: [FINE] dollmithan used the wrong password
+[06-04 12:00:41]: [FINE] dollmithan used the wrong password
+[06-04 12:01:11]: [FINE] dollmithan logged in 94.43.190.178
+[06-04 12:12:29]: [FINE] dito logged in 94.43.190.178
+[06-04 12:14:07]: [FINE] dollmithan logged in 94.43.190.178
+[06-04 12:24:35]: [FINE] dito logged in 94.43.190.178
+[06-04 13:17:00]: [FINE] dito logged in 94.43.190.178
+[06-04 13:17:17]: [FINE] dito logged in 94.43.190.178
+[06-04 13:27:10]: [FINE] dito logged in 94.43.190.178
+[06-04 13:27:33]: [FINE] dito logged in 94.43.190.178
+[06-05 12:50:22]: [FINE] dito logged in 94.43.190.178
+[06-05 12:53:58]: [FINE] dito logged in 94.43.190.178
+[06-05 12:54:49]: [FINE] dito logged in 94.43.190.178
+[06-05 13:00:37]: [FINE] dito logged in 94.43.190.178
+[06-05 13:05:09]: [FINE] dito logged in 94.43.190.178
+[06-05 13:10:21]: [FINE] dito logged in 94.43.190.178
+[06-05 13:18:03]: [FINE] dito logged in 94.43.190.178
+[06-05 13:21:37]: [FINE] dito logged in 94.43.190.178
+[06-05 13:25:37]: [FINE] dito logged in 94.43.190.178
+[06-05 13:30:46]: [FINE] dito logged in 94.43.190.178
+[06-05 13:31:13]: [FINE] dito logged in 94.43.190.178
+[06-05 18:05:25]: [FINE] Hatharal logged in 109.172.224.187
+[06-05 19:26:46]: [FINE] dito logged in 94.43.190.178
+[06-05 19:33:02]: [FINE] dito logged in 94.43.190.178
+[06-05 19:46:44]: [FINE] dito logged in 94.43.190.178
+[06-06 11:02:20]: [FINE] dito logged in 94.43.190.178
+[06-06 11:03:22]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 13:24:33]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 14:08:45]: [FINE] dito logged in 94.43.190.178
+[06-06 14:21:22]: [FINE] dito logged in 94.43.190.178
+[06-06 14:33:14]: [FINE] dito logged in 94.43.190.178
+[06-06 14:36:25]: [FINE] dito logged in 94.43.190.178
+[06-06 14:37:26]: [FINE] dito logged in 94.43.190.178
+[06-06 14:52:05]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 16:02:31]: [FINE] dito logged in 94.43.190.178
+[06-06 16:18:58]: [FINE] dito logged in 94.43.190.178
+[06-06 17:40:17]: [FINE] dito logged in 94.43.190.178
+[06-06 17:40:40]: [FINE] dito logged in 94.43.190.178
+[06-06 17:46:07]: [FINE] dito logged in 94.43.190.178
+[06-06 17:47:44]: [FINE] dito logged in 94.43.190.178
+[06-06 17:55:30]: [FINE] dito logged in 94.43.190.178
+[06-06 18:00:39]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 19:49:33]: [FINE] dito logged in 94.43.190.178
+[06-06 19:59:24]: [FINE] dito logged in 94.43.190.178
+[06-06 20:07:15]: [FINE] dito logged in 94.43.190.178
+[06-06 20:15:46]: [FINE] dito logged in 94.43.190.178
+[06-06 20:20:02]: [FINE] dito logged in 94.43.190.178
+[06-06 20:27:35]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 20:28:30]: [FINE] dito logged in 94.43.190.178
+[06-06 20:45:22]: [FINE] dito logged in 94.43.190.178
+[06-06 20:59:17]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 20:59:28]: [FINE] Hatharal logged in 109.172.224.187
+[06-06 21:00:07]: [FINE] dito logged in 94.43.190.178
+[06-06 21:52:05]: [FINE] dito logged in 94.43.190.178
+[06-06 22:26:27]: [FINE] dito logged in 94.43.190.178
+[06-06 22:27:23]: [FINE] dito logged in 94.43.190.178
+[06-07 09:14:49]: [FINE] Hatharal logged in 109.172.224.187
+[06-07 11:09:22]: [FINE] dito logged in 94.43.190.178
+[06-07 11:32:37]: [FINE] dito logged in 94.43.190.178
+[06-07 11:50:45]: [FINE] dito logged in 94.43.190.178
+[06-07 11:56:44]: [FINE] dito logged in 94.43.190.178
+[06-07 11:57:29]: [FINE] dito logged in 94.43.190.178
+[06-07 12:19:18]: [FINE] dito logged in 94.43.190.178
+[06-07 13:14:42]: [FINE] dito logged in 94.43.190.178
+[06-07 13:37:22]: [FINE] dito logged in 94.43.190.178
+[06-07 13:38:54]: [FINE] dito logged in 94.43.190.178
+[06-07 14:25:34]: [FINE] dito logged in 94.43.190.178
+[06-07 14:25:43]: [FINE] dito logged in 94.43.190.178
+[06-07 14:33:01]: [FINE] dito logged in 94.43.190.178
+[06-07 14:33:19]: [FINE] Hatharal logged in 109.172.224.187
+[06-07 19:58:40]: [FINE] dito logged in 94.43.190.178
+[06-07 20:08:36]: [FINE] dito logged in 94.43.190.178
+[06-07 20:39:42]: [FINE] dito logged in 94.43.190.178
+[06-07 20:40:09]: [FINE] Hatharal logged in 109.172.224.187
+[06-07 20:45:43]: [FINE] dito logged in 94.43.190.178
+[06-08 13:18:07]: [FINE] dito logged in 94.43.190.178
+[06-08 13:20:18]: [FINE] dito logged in 94.43.190.178
+[06-08 13:20:38]: [FINE] Hatharal logged in 109.172.224.187
+[06-08 13:20:39]: [FINE] dito logged in 94.43.190.178
+[06-08 14:31:01]: [FINE] dito logged in 94.43.190.178
+[06-08 14:58:57]: [FINE] dito logged in 94.43.190.178
+[06-08 14:59:13]: [FINE] dito logged in 94.43.190.178
+[06-08 15:07:27]: [FINE] dito logged in 94.43.190.178
+[06-08 15:47:35]: [FINE] Hatharal logged in 109.172.224.187
+[06-08 15:47:46]: [FINE] dito logged in 94.43.190.178
+[06-08 15:51:35]: [FINE] dito logged in 94.43.190.178
+[06-08 15:51:35]: [FINE] Hatharal logged in 109.172.224.187
+[06-08 15:52:03]: [FINE] dito logged in 94.43.190.178
+[06-08 15:52:12]: [FINE] Hatharal logged in 109.172.224.187
+[06-08 19:20:30]: [FINE] dito logged in 94.43.190.178
+[06-08 19:27:10]: [FINE] dito logged in 94.43.190.178
+[06-08 19:32:26]: [FINE] dito logged in 94.43.190.178
+[06-09 09:23:19]: [FINE] dito logged in 94.43.190.178
+[06-09 09:29:10]: [FINE] dito logged in 94.43.190.178
+[06-09 09:34:13]: [FINE] dito logged in 94.43.190.178
+[06-09 09:42:58]: [FINE] dito logged in 94.43.190.178
+[06-09 10:04:14]: [FINE] dito logged in 94.43.190.178
+[06-09 10:18:02]: [FINE] dito logged in 94.43.190.178
+[06-09 10:22:38]: [FINE] dito logged in 94.43.190.178
+[06-09 10:28:12]: [FINE] dito logged in 94.43.190.178
+[06-09 10:43:57]: [FINE] dito logged in 94.43.190.178
+[06-09 10:52:23]: [FINE] dito logged in 94.43.190.178
+[06-09 11:02:03]: [FINE] dito logged in 94.43.190.178
+[06-09 20:54:06]: [FINE] dito logged in 94.43.190.178
+[06-09 20:54:18]: [FINE] Hatharal logged in 109.172.224.187
+[06-09 20:56:18]: [FINE] dito logged in 94.43.190.178
+[06-09 21:06:38]: [FINE] dito logged in 94.43.190.178
+[06-09 21:09:03]: [FINE] dito logged in 94.43.190.178
+[06-10 08:44:25]: [FINE] dito logged in 94.43.190.178
+[06-10 15:17:20]: [FINE] dito logged in 94.43.190.178
+[06-10 21:29:03]: [FINE] Hatharal logged in 109.172.224.187
+[06-10 21:35:50]: [FINE] TimeZz_ registered 37.232.115.59
+[06-10 21:35:50]: [FINE] TimeZz_ logged in 37.232.115.59
+[06-10 21:36:06]: [FINE] TimeZz_ logged in 37.232.115.59
+[06-10 21:36:16]: [FINE] Hatharal logged in 109.172.224.187
+[06-10 21:36:33]: [FINE] TimeZz_ logged in 37.232.115.59
+[06-10 21:37:05]: [FINE] TimeZz_ logged in 37.232.115.59
+[06-10 21:39:08]: [FINE] dito logged in 94.43.190.178
+[06-10 21:55:31]: [FINE] Elion used the wrong password
+[06-10 21:55:39]: [FINE] Elion used the wrong password
+[06-10 21:55:54]: [FINE] Elion logged in 95.104.29.101
+[06-10 21:59:28]: [FINE] Elion logged in 95.104.29.101
+[06-10 22:05:20]: [FINE] Elion logged in 95.104.29.101
+[06-11 15:43:34]: [FINE] dito logged in 94.43.190.178
+[06-12 12:55:47]: [FINE] Elion logged in 95.104.29.101
+[06-12 12:55:56]: [FINE] dito logged in 94.43.190.178
+[06-12 12:56:09]: [FINE] Elion logged in 95.104.29.101
+[06-12 12:56:22]: [FINE] Elion logged in 95.104.29.101
+[06-12 13:00:37]: [FINE] dito logged in 94.43.190.178
+[06-12 16:36:43]: [FINE] dito logged in 94.43.190.178
+[06-12 16:36:51]: [FINE] Elion logged in 95.104.29.101
+[06-12 16:47:48]: [FINE] dito logged in 94.43.190.178
+[06-12 16:48:45]: [FINE] Elion logged in 95.104.29.101
+[06-12 16:48:56]: [FINE] dito logged in 94.43.190.178
+[06-12 16:49:18]: [FINE] Elion logged in 95.104.29.101
+[06-13 11:59:46]: [FINE] dito logged in 94.43.190.178
+[06-13 12:03:07]: [FINE] dito logged in 94.43.190.178
+[06-13 12:24:44]: [FINE] dito logged in 94.43.190.178
+[06-13 12:27:49]: [FINE] dito logged in 94.43.190.178
+[06-13 17:19:06]: [FINE] dito logged in 94.43.190.178
+[06-13 17:23:47]: [FINE] dito logged in 94.43.190.178
+[06-13 17:27:16]: [FINE] dito logged in 94.43.190.178
+[06-13 17:30:21]: [FINE] Elion logged in 95.104.29.101
+[06-13 17:30:31]: [FINE] Hatharal logged in 109.172.224.187
+[06-13 17:30:49]: [FINE] dito logged in 94.43.190.178
+[06-13 18:01:46]: [FINE] Hatharal logged in 109.172.224.187
+[06-13 18:50:07]: [FINE] dito logged in 94.43.190.178
+[06-13 18:50:36]: [FINE] dito logged in 94.43.190.178
+[06-14 10:40:02]: [FINE] dito logged in 94.43.190.178
+[06-14 10:42:09]: [FINE] dito logged in 94.43.190.178
+[06-14 11:24:35]: [FINE] dito logged in 94.43.190.178
+[06-14 11:30:28]: [FINE] dollmithan used the wrong password
+[06-14 11:30:59]: [INFO] dollmithan was unregistered by CONSOLE
+[06-14 11:31:37]: [FINE] dito logged in 94.43.190.178
+[06-14 11:32:16]: [INFO] CONSOLE registered dollmithan
+[06-14 11:32:24]: [FINE] dollmithan logged in 94.43.190.178
+[06-14 13:13:07]: [FINE] dito logged in 94.43.190.178
+[06-14 13:13:48]: [FINE] dito logged in 94.43.190.178
+[06-14 13:22:48]: [FINE] dito logged in 94.43.190.178
+[06-14 13:27:40]: [FINE] dito logged in 94.43.190.178
+[06-14 14:05:33]: [FINE] dito logged in 94.43.190.178
+[06-14 14:06:10]: [FINE] Elion logged in 95.104.29.101
+[06-14 14:20:54]: [FINE] Elion logged in 95.104.29.101
+[06-14 14:20:54]: [FINE] dito logged in 94.43.190.178
+[06-14 19:51:20]: [FINE] dito used the wrong password
+[06-14 19:51:33]: [FINE] dito logged in 94.43.190.178

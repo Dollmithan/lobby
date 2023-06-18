@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.54.209.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685124477811
+  login: 1685124472708
+money: '0'
+last-account-name: saba_killer_saba
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -139.5
+  y: 66.0
+  z: 260.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 359.23021390422286
+  y: 111.0
+  z: 384.7607494116855
+  yaw: 85.69277954101562
+  pitch: -2.003685235977173

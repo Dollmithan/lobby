@@ -1,0 +1,25 @@
+settings:
+  view-distance: 25
+  view-permission: none
+  animations:
+  - Rotate(direction=LEFT,speed=5)
+  - UpDown(value=0.025,jumps=15,smooth=true)
+  small: false
+  location: hub(360.5,111.0,388.5)
+head:
+  type: ITEM
+  value: SKULL_ITEM(amount=1,skin=adamofall1191)
+name:
+  offset: 0.25
+  space: 0.25
+  lines:
+  - '&e&lULTRAMC DISCORD'
+  - ''
+  - '&eHey &3%player%&e!'
+  - '&eDid you know, this server has a discord server?'
+  - '&eJoin so you wont miss out on updates!'
+  - ''
+  - '&eClick me, or use the link below!'
+  - '&fhttps://dc.ultramc.online'
+actions:
+- console-cmd(value=msg %player% &eJoin our discord server! https://dc.ultramc.online,cooldown=3)

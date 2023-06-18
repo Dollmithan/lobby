@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1686742347350
+  login: 1686742340185
+money: '0'
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -165.83301011389236
+  y: 69.0
+  z: 278.21796933641815
+  yaw: 55.17347717285156
+  pitch: 19.624889373779297
+last-account-name: dollmithan
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 358.41072244771584
+  y: 111.0
+  z: 384.5296212801605
+  yaw: 91.87867736816406
+  pitch: 8.125508308410645

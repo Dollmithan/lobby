@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.103.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1685217206418
+  login: 1685217191012
+money: '0'
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -139.5
+  y: 66.0
+  z: 260.5
+  yaw: 3.3299620151519775
+  pitch: 0.0
+last-account-name: xAkira
+logoutlocation:
+  world: c3768423-165d-4857-9d59-c63cac652c54
+  world-name: hub
+  x: 356.28470631358107
+  y: 111.79673560066871
+  z: 386.00371955188615
+  yaw: -138.39505004882812
+  pitch: 24.34090232849121

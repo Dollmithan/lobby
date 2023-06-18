@@ -1,0 +1,265 @@
+[00:08:09] [Craft Scheduler Thread - 7482/INFO]: [Vault] Checking for Updates ... 
+[00:08:09] [Craft Scheduler Thread - 7482/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[00:08:09] [Craft Scheduler Thread - 7482/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[06:08:20] [Craft Scheduler Thread - 7557/INFO]: [Vault] Checking for Updates ... 
+[06:08:20] [Craft Scheduler Thread - 7557/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[06:08:20] [Craft Scheduler Thread - 7557/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[08:22:25] [Server thread/INFO]: [ProtocolLib] The updater found an update: 5.0.0 (Running 5.0.0-SNAPSHOT-634). Download at https://www.spigotmc.org/resources/protocollib.1997/
+[10:39:53] [User Authenticator #240/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[10:39:53] [Server thread/INFO]: dito[/94.43.190.178:38397] logged in with entity id 21893 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[10:40:02] [Craft Scheduler Thread - 7612/INFO]: [AuthMe] dito logged in 94.43.190.178
+[10:40:06] [Server thread/INFO]: dito lost connection: Disconnected
+[10:42:09] [User Authenticator #241/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[10:42:09] [Server thread/INFO]: dito[/94.43.190.178:50091] logged in with entity id 21903 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[10:42:09] [Craft Scheduler Thread - 7614/INFO]: [AuthMe] dito logged in 94.43.190.178
+[10:42:11] [Server thread/INFO]: dito lost connection: Disconnected
+[10:42:11] [Craft Scheduler Thread - 7621/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:24:35] [User Authenticator #242/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[11:24:35] [Server thread/INFO]: dito[/94.43.190.178:56579] logged in with entity id 21914 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:24:35] [Craft Scheduler Thread - 7632/INFO]: [AuthMe] dito logged in 94.43.190.178
+[11:24:38] [Server thread/INFO]: dito lost connection: Disconnected
+[11:24:38] [Craft Scheduler Thread - 7635/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[11:30:23] [User Authenticator #243/WARN]: [LuckPerms] LuckPerms already has data for player 'dollmithan' - but this data is stored under a different UUID.
+[11:30:23] [User Authenticator #243/WARN]: [LuckPerms] 'dollmithan' has previously used the unique ids [d6b09f62-e16e-34a8-8474-094956bf7af5] but is now connecting with '2174c987-6bef-38aa-a6c5-6ea37822f297'
+[11:30:23] [User Authenticator #243/WARN]: [LuckPerms] The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[11:30:23] [User Authenticator #243/WARN]: [LuckPerms] If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[11:30:23] [User Authenticator #243/WARN]: [LuckPerms] See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[11:30:23] [User Authenticator #243/INFO]: UUID of player dollmithan is 2174c987-6bef-38aa-a6c5-6ea37822f297
+[11:30:23] [Server thread/INFO]: dollmithan[/94.43.190.178:34185] logged in with entity id 21924 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:30:28] [Craft Scheduler Thread - 7628/INFO]: [AuthMe] dollmithan used the wrong password
+[11:30:28] [Server thread/INFO]: dollmithan lost connection: Wrong password!
+[11:30:28] [Server thread/WARN]: handleDisconnection() called twice
+[11:30:31] [User Authenticator #243/INFO]: UUID of player dollmithan is 2174c987-6bef-38aa-a6c5-6ea37822f297
+[11:30:31] [Server thread/INFO]: dollmithan[/94.43.190.178:45089] logged in with entity id 21934 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:30:37] [Server thread/INFO]: dollmithan lost connection: Disconnected
+[11:30:59] [Craft Scheduler Thread - 7637/INFO]: [AuthMe] dollmithan was unregistered by CONSOLE
+[11:30:59] [Craft Scheduler Thread - 7637/INFO]: Successfully unregistered!
+[11:31:37] [User Authenticator #244/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[11:31:37] [Server thread/INFO]: dito[/94.43.190.178:44669] logged in with entity id 21935 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:31:37] [Craft Scheduler Thread - 7630/INFO]: [AuthMe] dito logged in 94.43.190.178
+[11:31:48] [Server thread/INFO]: dito lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[11:31:50] [User Authenticator #244/INFO]: UUID of player dollmithan is 2174c987-6bef-38aa-a6c5-6ea37822f297
+[11:31:50] [Server thread/INFO]: dollmithan[/94.43.190.178:45657] logged in with entity id 21945 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:32:10] [Server thread/INFO]: Unknown command!
+[11:32:10] [Server thread/INFO]: Did you mean /authme register?
+[11:32:10] [Server thread/INFO]: Use the command /authme help to view help.
+[11:32:16] [Craft Scheduler Thread - 7644/INFO]: Successfully registered! Please rejoin the server.
+[11:32:16] [Craft Scheduler Thread - 7644/INFO]: [AuthMe] CONSOLE registered dollmithan
+[11:32:16] [Server thread/INFO]: dollmithan lost connection: Please log in again.
+[11:32:16] [Server thread/WARN]: handleDisconnection() called twice
+[11:32:20] [User Authenticator #244/INFO]: UUID of player dollmithan is 2174c987-6bef-38aa-a6c5-6ea37822f297
+[11:32:20] [Server thread/INFO]: dollmithan[/94.43.190.178:38575] logged in with entity id 21946 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[11:32:24] [Craft Scheduler Thread - 7630/INFO]: [AuthMe] dollmithan logged in 94.43.190.178
+[11:32:27] [Server thread/INFO]: dollmithan lost connection: Disconnected
+[12:08:30] [Craft Scheduler Thread - 7649/INFO]: [Vault] Checking for Updates ... 
+[12:08:30] [Craft Scheduler Thread - 7649/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[12:08:30] [Craft Scheduler Thread - 7649/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[13:12:09] [Server thread/INFO]: [PlugMan] That is not a valid plugin.
+[13:12:09] [Server thread/INFO]: - Command: Reload
+[13:12:09] [Server thread/INFO]: - Description: Reload a plugin.
+[13:12:09] [Server thread/INFO]: - Usage: /plugman reload <plugin|all>
+[13:13:00] [User Authenticator #245/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:13:00] [Server thread/INFO]: dito[/94.43.190.178:44531] logged in with entity id 21948 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[13:13:07] [Craft Scheduler Thread - 7668/INFO]: [AuthMe] dito logged in 94.43.190.178
+[13:13:08] [Server thread/INFO]: dito lost connection: Disconnected
+[13:13:08] [Craft Scheduler Thread - 7660/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[13:13:48] [User Authenticator #245/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:13:48] [Server thread/INFO]: dito[/94.43.190.178:48591] logged in with entity id 21958 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[13:13:48] [Craft Scheduler Thread - 7667/INFO]: [AuthMe] dito logged in 94.43.190.178
+[13:13:50] [Server thread/INFO]: dito lost connection: Disconnected
+[13:22:48] [User Authenticator #246/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:22:48] [Server thread/INFO]: dito[/94.43.190.178:54861] logged in with entity id 21968 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[13:22:48] [Craft Scheduler Thread - 7667/INFO]: [AuthMe] dito logged in 94.43.190.178
+[13:22:53] [Server thread/INFO]: dito lost connection: Disconnected
+[13:22:53] [Craft Scheduler Thread - 7675/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[13:27:40] [User Authenticator #247/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[13:27:40] [Server thread/INFO]: dito[/94.43.190.178:40153] logged in with entity id 21978 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[13:27:40] [Craft Scheduler Thread - 7676/INFO]: [AuthMe] dito logged in 94.43.190.178
+[13:27:47] [Server thread/INFO]: dito lost connection: Disconnected
+[14:05:32] [User Authenticator #248/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[14:05:33] [Server thread/INFO]: dito[/94.43.190.178:50209] logged in with entity id 21988 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[14:05:33] [Craft Scheduler Thread - 7689/INFO]: [AuthMe] dito logged in 94.43.190.178
+[14:05:36] [Server thread/INFO]: dito lost connection: Disconnected
+[14:06:05] [User Authenticator #248/INFO]: UUID of player Elion is 029f4687-09b6-37c8-906a-0d1bc5c47739
+[14:06:05] [Server thread/INFO]: Elion[/95.104.29.101:58067] logged in with entity id 21998 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[14:06:10] [Craft Scheduler Thread - 7687/INFO]: [AuthMe] Elion logged in 95.104.29.101
+[14:06:12] [Server thread/INFO]: Elion lost connection: Disconnected
+[14:20:53] [User Authenticator #249/INFO]: UUID of player Elion is 029f4687-09b6-37c8-906a-0d1bc5c47739
+[14:20:53] [User Authenticator #250/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[14:20:54] [Server thread/INFO]: Elion[/95.104.29.101:41913] logged in with entity id 22008 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[14:20:54] [Server thread/INFO]: dito[/94.43.190.178:33469] logged in with entity id 22009 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[14:20:54] [Craft Scheduler Thread - 7699/INFO]: [AuthMe] Elion logged in 95.104.29.101
+[14:20:54] [Craft Scheduler Thread - 7699/INFO]: [AuthMe] dito logged in 94.43.190.178
+[14:20:55] [Server thread/INFO]: Elion lost connection: Disconnected
+[14:20:55] [Craft Scheduler Thread - 7699/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[14:20:55] [Server thread/INFO]: dito lost connection: Disconnected
+[16:52:30] [User Authenticator #251/INFO]: UUID of player Elion is 029f4687-09b6-37c8-906a-0d1bc5c47739
+[16:52:30] [Server thread/WARN]: [HamsterAPI] Failed to inject player Elion please contact 2LStudios for support about HamsterAPI as this can lead to vulnerabilities.
+[16:52:30] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to ServersNPC v4.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:72) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerList.onPlayerJoin(PlayerList.java:370) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerList.a(PlayerList.java:183) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.LoginListener.b(LoginListener.java:178) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.LoginListener.e(LoginListener.java:68) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.a(NetworkManager.java:273) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:150) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.listeners.PlayerListener.onJoin(PlayerListener.java:21) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor48.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	... 14 more
+[16:52:30] [Server thread/INFO]: Elion[/95.104.29.101:34979] logged in with entity id 22020 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[16:52:30] [Server thread/INFO]: Elion lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[16:52:30] [Craft Scheduler Thread - 7740/WARN]: [ServersNPC] Plugin ServersNPC v4.0 generated an exception while executing task 13
+java.util.NoSuchElementException: decoder
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1119) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:320) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.netty.channel.DefaultChannelPipeline.addAfter(DefaultChannelPipeline.java:308) ~[patched_1.12.2.jar:git-Paper-1620]
+	at io.github.znetworkw.znpcservers.user.ZUser.<init>(ZUser.java:54) ~[?:?]
+	at java.util.HashMap.computeIfAbsent(HashMap.java:1220) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:89) ~[?:?]
+	at io.github.znetworkw.znpcservers.user.ZUser.find(ZUser.java:93) ~[?:?]
+	at io.github.znetworkw.znpcservers.npc.task.NPCManagerTask.run(NPCManagerTask.java:24) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:64) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52) ~[patched_1.12.2.jar:git-Paper-1620]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[16:52:30] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to ServersNPC v4.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:72) ~[patched_1.12.2.jar:git-Paper-1620]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.12.2.jar:git-Paper-1620]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:513) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerList.disconnect(PlayerList.java:429) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1167) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.NetworkManager.handleDisconnection(NetworkManager.java:359) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.ServerConnection.c(ServerConnection.java:184) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:948) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:423) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:774) ~[patched_1.12.2.jar:git-Paper-1620]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:666) ~[patched_1.12.2.jar:git-Paper-1620]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+Caused by: java.lang.IllegalStateException: can't find user 029f4687-09b6-37c8-906a-0d1bc5c47739
+	at io.github.znetworkw.znpcservers.user.ZUser.unregister(ZUser.java:99) ~[?:?]
+	at io.github.znetworkw.znpcservers.listeners.PlayerListener.onQuit(PlayerListener.java:26) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor49.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:70) ~[patched_1.12.2.jar:git-Paper-1620]
+	... 12 more
+[16:52:30] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 64.603592ms. Summary: Getting group for Elion
+[18:08:41] [Craft Scheduler Thread - 7756/INFO]: [Vault] Checking for Updates ... 
+[18:08:41] [Craft Scheduler Thread - 7756/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.5.6
+[18:08:41] [Craft Scheduler Thread - 7756/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[19:51:09] [User Authenticator #252/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[19:51:10] [Server thread/INFO]: dito[/94.43.190.178:52181] logged in with entity id 22022 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[19:51:20] [Craft Scheduler Thread - 7782/INFO]: [AuthMe] dito used the wrong password
+[19:51:20] [Server thread/INFO]: dito lost connection: Wrong password!
+[19:51:21] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 97.755083ms. Summary: Getting prefix for dito
+[19:51:21] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 48.322049ms. Summary: Getting suffix for dito
+[19:51:21] [Server thread/WARN]: handleDisconnection() called twice
+[19:51:27] [User Authenticator #252/INFO]: UUID of player dito is b06c3295-db1c-3c17-8490-d3eb84429c7a
+[19:51:29] [Server thread/INFO]: dito[/94.43.190.178:37797] logged in with entity id 22032 at ([hub]371.26096578080455, 110.0, 384.70621833697584)
+[19:51:33] [Craft Scheduler Thread - 7783/INFO]: [AuthMe] dito logged in 94.43.190.178
+[19:52:22] [Server thread/INFO]: dito lost connection: Disconnected
+[19:53:36] [Paper Watchdog Thread/ERROR]: The server has stopped responding!
+[19:53:36] [Paper Watchdog Thread/ERROR]: Please report this to https://github.com/PaperMC/Paper/issues
+[19:53:36] [Paper Watchdog Thread/ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[19:53:36] [Paper Watchdog Thread/ERROR]: Paper version: git-Paper-1620 (MC: 1.12.2)
+[19:53:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:53:37] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[19:55:21] [Paper Watchdog Thread/ERROR]: ------------------------------
+[19:55:21] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[19:55:21] [Paper Watchdog Thread/ERROR]: 	PID: 24 | Suspended: false | Native: false | State: RUNNABLE
+[19:55:21] [Paper Watchdog Thread/ERROR]: 	Stack:

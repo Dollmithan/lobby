@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.43.190.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1684597101678
+  login: 1684597035123
+money: '0'
+last-account-name: ColdBl0oded
+lastlocation:
+  world: 1b88823b-9afb-4dd5-9080-abdbd28cb7c0
+  world-name: world
+  x: -139.5
+  y: 66.0
+  z: 260.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: fd39fe62-7d20-4923-a4bc-43491ad96ff7
+  world-name: lobby
+  x: -7.631684201529897
+  y: 62.0
+  z: -29.1325811157244
+  yaw: -115.00434875488281
+  pitch: 14.254801750183105

@@ -1,0 +1,27 @@
+commands:
+  "discord":
+    aliases: ["dc", "discord"]
+    permission: command.discord
+    message:
+      - "&eJoin our discord server: &fhttps://dc.ultramc.online &e/ &fhttps://dsc.gg/ultrasurvival"
+  "rules":
+    aliases: ["rules", "policy", "tos"]
+    permission: command.rules
+    message:
+      - "&e&lULTRAMC RULES &7(/rules)"
+      - ""
+      - "&eUnfair advantages. &7(Cheaters are treated with immediate bans!)"
+      - "&eSpam / Flood. &7(Spammers will get muted immediately.)"
+      - ""
+      - "&eCensure: "
+      - "&7Racism, homophobia, harrasement, threats are prohibited for obvious reasons!"
+      - ""
+      - "&eNSFW (18+ content): "
+      - "&7Everything should be SFW (Safe for work), this includes messages, signs, item names, usernames, etc."
+      - ""
+      - "&eJoin our discord server: &fhttps://dc.ultramc.online"
+      - "&eSupport is available on our discord server."
+      - ""
+      - "&7By playing on this server, you are agreeing to our ToS/Rules."
+      - "&7You also agree that these rules may change at any given time, and you are obligated to follow them"
+    

@@ -1,0 +1,25 @@
+settings:
+  view-distance: 25
+  view-permission: none
+  animations:
+  - Rotate(direction=LEFT,speed=5)
+  - UpDown(value=0.025,jumps=15,smooth=true)
+  small: false
+  location: hub(360.5,111.0,380.5)
+head:
+  type: ITEM
+  value: SKULL_ITEM(amount=1,skin=realgenti)
+name:
+  offset: 0.25
+  space: 0.25
+  lines:
+  - '&e&lULTRAMC COMMANDS &7(/help)'
+  - ''
+  - '&e /discord &7(Join our discord server!)'
+  - '&e /rules &7(View the rules.)'
+  - '&e /store &7(Donate to our server!)'
+  - ''
+  - '&eClick me, or use the link below!'
+  - '&fhttps://dc.ultramc.online'
+actions:
+- console-cmd(value=gui openfor %player% store,cooldown=3)
